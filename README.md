@@ -3,7 +3,7 @@ This is a simple browser application that allows you to test simple animation st
 
 How To Use:
 
-Upload your animation strip as an image file into the folder.
+- Upload your animation strip as an image file into the folder.
 
 Open the "main.js" file using any text editor.
 
