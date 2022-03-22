@@ -10,6 +10,6 @@ How To Use:
    2. *width* refers to the width of your image in pixels.
    3. *frame* refers to the number of frames in your animation strip.
    4. *filename* refers to the filename of your image.
-   5. *cyclerate* controls the speed of your animation. Roughly, a cyclerate of 10 means that one cycle of your animation will be completed in 10 standard framerates. Increasing this number leads to slower animations and vice versa.
+   5. *cyclerate* controls the speed of your animation. It represents the amount of delay between frame transitions. Increasing this number leads to slower animations while decreasing this number leads to faster animations (note: cyclerate must be a positive integer).
 4. After modifying these specifications, you can save the "main.js" file and open the "index.html" file in your local browser.
 5. The "move" button starts the animation while the "stop" button freezes the animation.
