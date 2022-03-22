@@ -8,8 +8,7 @@ How To Use:
 2. Open the "main.js" file using any text editor.
 
 3. At the top of the script, you should see a section that lets you specify your image details.
-
-  1. height refers to the height of your image in pixels.
+   1. height refers to the height of your image in pixels.
 
   2. width refers to the width of your image in pixels.
 
