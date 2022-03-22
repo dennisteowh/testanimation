@@ -5,7 +5,7 @@ var height = 222  // height of picture in pixels
 var width = 1920 // width of picture in pixels
 var filename = "test-image.jpg" // filename of picture
 var frame = 7 // number of frames in picture
-var cyclerate = 10 // controls number of "frames" for 1 cycle of animation to finish
+var cyclerate = 10 // controls amount of delay between frame transitions
 
 ///////////////////////////////////
 
